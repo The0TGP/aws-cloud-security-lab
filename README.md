@@ -32,4 +32,6 @@ How AWS logs and monitors account activity
 How to detect potential threats in a cloud environment
 The importance of IAM and least privilege access
 Basics of cloud-based security investigation
+
 📸 Screenshots
+CloudTrail Logs - 
