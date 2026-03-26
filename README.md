@@ -56,7 +56,7 @@ The importance of IAM and least privilege access
 Basics of cloud-based security investigation
 
 
-**Screenshots- **
+**Screenshots -**
 
 CloudTrail Logs <img width="2320" height="1016" alt="Screenshot 2026-03-26 144050" src="https://github.com/user-attachments/assets/8b73e818-f5a2-4575-871f-f5cf8083655b" />
 
