@@ -32,7 +32,7 @@ GuardDuty enabled for threat detection
 IAM users created to simulate access scenarios
 
 
-**What I Did - **
+**What I Did -**
 
 Configured AWS CloudTrail to log all account activity
 
@@ -45,7 +45,7 @@ Analyzed CloudTrail logs to investigate activity
 Initially assigned administrative access for testing, then removed it and enforced least privilege controls
 
 
-**Key Learnings - **
+**Key Learnings -**
 
 How AWS logs and monitors account activity
 
