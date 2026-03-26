@@ -35,3 +35,8 @@ Basics of cloud-based security investigation
 
 📸 Screenshots
 CloudTrail Logs - (Screenshot 2026-03-26 144050.png)
+GuardDuty - 
+IAM Users - 
+EC2 Instance - 
+S3 Bucket - 
+
