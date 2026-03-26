@@ -19,7 +19,7 @@ AWS CloudTrail
 AWS GuardDuty
 
 
-**Architecture - **
+**Architecture -**
 
 EC2 instance deployed in AWS
 
