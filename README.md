@@ -6,7 +6,7 @@ Overview
 
 This project demonstrates hands-on experience with AWS cloud security tools by building a monitoring environment that detects and analyzes suspicious activity.
 
-Technologies Used -
+**Technologies Used -**
 
 AWS EC2
 
@@ -19,7 +19,7 @@ AWS CloudTrail
 AWS GuardDuty
 
 
-Architecture - 
+**Architecture - **
 
 EC2 instance deployed in AWS
 
@@ -32,7 +32,7 @@ GuardDuty enabled for threat detection
 IAM users created to simulate access scenarios
 
 
-What I Did - 
+**What I Did - **
 
 Configured AWS CloudTrail to log all account activity
 
@@ -45,7 +45,7 @@ Analyzed CloudTrail logs to investigate activity
 Initially assigned administrative access for testing, then removed it and enforced least privilege controls
 
 
-Key Learnings - 
+**Key Learnings - **
 
 How AWS logs and monitors account activity
 
@@ -56,7 +56,7 @@ The importance of IAM and least privilege access
 Basics of cloud-based security investigation
 
 
-Screenshots- 
+**Screenshots- **
 
 CloudTrail Logs <img width="2320" height="1016" alt="Screenshot 2026-03-26 144050" src="https://github.com/user-attachments/assets/8b73e818-f5a2-4575-871f-f5cf8083655b" />
 
